@@ -82,6 +82,7 @@ The YOLOv8n detector was trained using the following principal configuration:
 - Input image size: 640 × 640 pixels
 - Batch size: 16
 - Maximum epochs: 50
+- Recorded training run completed at epoch 43
 - Early-stopping patience: 15 epochs
 - Optimizer: AdamW
 - Initial learning rate (`lr0`): 0.0007
